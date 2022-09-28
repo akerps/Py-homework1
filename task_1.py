@@ -7,4 +7,4 @@ if day == 6 or day == 7:
 elif day < 6 and day >= 1:
     print(f'{day} -> нет, это будний день')
 else:
-    print(f"{day} -> это не день недели, введите число от 1 до 7")https://github.com/akerps/Py-homework1/blob/main/task_1.py
+    print(f"{day} -> это не день недели, введите число от 1 до 7")
